@@ -1,16 +1,13 @@
-## Hi there 👋
+## Sobre mim
+Olá! Eu sou Ednaldo, estudante de Análise e Desenvolvimento de Sistemas pelo IFPE-Recife. Atualmente, estou aprendendo um pouco mais sobre back-end no geral.
 
-<!--
-**EdnaldoBarbo/EdnaldoBarbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Redes](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ednaldo-floren%C3%A7o-7279a7252/)
 
-Here are some ideas to get you started:
+## 💻 Técnologias
+![C](https://img.shields.io/badge/-C-lightgrey) 
+![Python](https://img.shields.io/badge/-Python-blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Ednaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdnaldoBarbo&show_icons=true&theme=gruvbox) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdnaldoBarbo&layout=compact&theme=radical)](https://github.com/EdnaldoBarbo/github-readme-stats)
+
+
