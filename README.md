@@ -1,7 +1,7 @@
 ## Sobre mim
 Olá! Eu sou Ednaldo, estudante de Análise e Desenvolvimento de Sistemas pelo IFPE-Recife. Atualmente, estou aprendendo um pouco mais sobre back-end no geral.
 
-[![Redes](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ednaldo-floren%C3%A7o-7279a7252/](https://www.linkedin.com/in/ednaldo-floren%C3%A7o-7279a7252/))
+[![Redes](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ednaldo-floren%C3%A7o-7279a7252/)
 
 ## 💻 Tecnologias
 ![C](https://img.shields.io/badge/-C-lightgrey) 
